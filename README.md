@@ -95,8 +95,3 @@ I really enjoyed this project because it allowed me to piece together a lot of t
 - Another interesting stretch goal would be to collect more detailed telemetry about the request, response, and computation, and store this information through a telemetry storage system.
 - In the future if any of these features would be added to the program the first task that would need to be completed would be to set up unit tests to maintain reliability of the previous features of the program.
 - In the process of designing and implementing this API I learned more about how to create a full API as one azure function, I think this would be an interesting thing to do for this API if it was extended to cover more endpoints or resources.
-
-___
-#### TODO List
-6. Documentation review
-3. post code to github
